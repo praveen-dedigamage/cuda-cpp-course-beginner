@@ -9,13 +9,13 @@ No local GPU needed — run everything for free in the browser. Click a badge to
 
 | # | Notebook | Open in Colab |
 |---|----------|:-------------:|
-| 1 | Introduction to CUDA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/cuda-cpp-course/blob/main/01_Introduction_to_CUDA.ipynb) |
-| 2 | Kernels and Thread Hierarchy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/cuda-cpp-course/blob/main/02_Kernels_and_Thread_Hierarchy.ipynb) |
-| 3 | Memory Management | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/cuda-cpp-course/blob/main/03_Memory_Management.ipynb) |
-| 4 | Vector Addition | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/cuda-cpp-course/blob/main/04_Vector_Addition.ipynb) |
-| 5 | Error Handling | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/cuda-cpp-course/blob/main/05_Error_Handling.ipynb) |
-| 6 | 2D Grids and Matrix Ops | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/cuda-cpp-course/blob/main/06_2D_Grids_and_Matrix_Ops.ipynb) |
-| 7 | Performance Measurement | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/cuda-cpp-course/blob/main/07_Performance_Measurement.ipynb) |
+| 1 | Introduction to CUDA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/cuda-cpp-course-beginner/blob/main/01_Introduction_to_CUDA.ipynb) |
+| 2 | Kernels and Thread Hierarchy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/cuda-cpp-course-beginner/blob/main/02_Kernels_and_Thread_Hierarchy.ipynb) |
+| 3 | Memory Management | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/cuda-cpp-course-beginner/blob/main/03_Memory_Management.ipynb) |
+| 4 | Vector Addition | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/cuda-cpp-course-beginner/blob/main/04_Vector_Addition.ipynb) |
+| 5 | Error Handling | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/cuda-cpp-course-beginner/blob/main/05_Error_Handling.ipynb) |
+| 6 | 2D Grids and Matrix Ops | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/cuda-cpp-course-beginner/blob/main/06_2D_Grids_and_Matrix_Ops.ipynb) |
+| 7 | Performance Measurement | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praveen-dedigamage/cuda-cpp-course-beginner/blob/main/07_Performance_Measurement.ipynb) |
 
 ### Colab Setup (2 steps)
 
